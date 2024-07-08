@@ -1,0 +1,88 @@
+.t1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.nav1{
+    height: 70px;
+    background-color: black;
+}
+.p2{
+    color: white;
+}
+.p3{
+    color: white;
+}
+.exp{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+.control{
+    color: white;
+    text-align: center;
+}
+.plans{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+.plans2{
+    color: white;
+    text-align: center;
+}
+.visadiv{
+text-align: center;
+height: 20px;
+border-radius: 20px;
+}
+.all{
+    padding-left: 200px;
+    font-weight: 100%;
+}
+.lis{
+    padding-left: 60px;
+    padding-right: 40px;
+    
+}
+.p1{
+    color: pink;
+}
+.p2{
+    color: grey;
+}
+.student{
+    color: rgb(218, 163, 218);
+}
+.duo{
+    color: rgb(235, 168, 44)
+}
+.fam{
+    color: lightblue;
+}
+.card1{
+    border-radius: 15px;
+    background-color: rgb(26, 20, 20);
+   padding-left: 30px;padding-right: 30px;
+}
+.card2{
+    border-radius: 15px;
+    background-color: rgb(26, 20, 20);
+    padding-left: 30px;padding-right: 30px;
+    
+}
+.card3{
+    border-radius: 15px;
+    background-color: rgb(26, 20, 20);
+    padding-left: 30px;padding-right: 30px;
+}
+.card4{
+    border-radius: 15px;
+    background-color: rgb(26, 20, 20);
+    padding-left: 30px;padding-right: 30px;
+}
+.spann{
+    font-size:10px;
+    color: grey;
+    padding-left: 30px;padding-right: 30px;
+}
